@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.exe
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.deps.json
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.runtimeconfig.dev.json
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.dll
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.pdb
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.dll
+C:\Users\user\Desktop\Новая папка\07 Векторы\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.pdb
+C:\Users\user\Desktop\Epam\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.exe
+C:\Users\user\Desktop\Epam\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.deps.json
+C:\Users\user\Desktop\Epam\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.runtimeconfig.json
+C:\Users\user\Desktop\Epam\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.runtimeconfig.dev.json
+C:\Users\user\Desktop\Epam\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.dll
+C:\Users\user\Desktop\Epam\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.pdb
+C:\Users\user\Desktop\Epam\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Epam\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Epam\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.AssemblyInfo.cs
+C:\Users\user\Desktop\Epam\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.dll
+C:\Users\user\Desktop\Epam\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.pdb
